@@ -65,30 +65,9 @@ The content follows the Cambridge 9701 syllabus for **2025–2027**. The **2028�
 
 The overview pages also summarise the papers: Paper 1 (multiple choice), Paper 2 (AS structured questions), Paper 3 (practical skills), Paper 4 (A Level structured questions) and Paper 5 (planning, analysis and evaluation).
 
-## Getting started
-
 ### Open it locally
 
 Download `index.html` and double-click it. It opens in any modern browser (Chrome, Edge, Firefox, Safari).
-
-### Host it on GitHub Pages
-
-1. Create a new repository, for example `9701-chemistry-notes`, and upload `index.html` (rename `chemistry-9701.html` to `index.html`) and this `README.md`.
-2. In the repository, go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select the `main` branch and the `/ (root)` folder, then **Save**.
-4. After a minute or two, the site is live at `https://zohxair.github.io/9701-chemistry-notes/` (or `https://<your-username>.github.io/<repository-name>/`).
-
-### Linking to a topic
-
-Every topic and section has its own link, so you can send students straight to it:
-
-```
-https://zohxair.github.io/9701-chemistry-notes/#as-14    → AS topic 14, Hydrocarbons
-https://zohxair.github.io/9701-chemistry-notes/#a-24     → A Level topic 24, Electrochemistry
-https://zohxair.github.io/9701-chemistry-notes/#a-37     → A Level topic 37, Analytical techniques
-```
-
-`as-0` and `a-0` are the overview pages for each level.
 
 ## How it works
 
@@ -118,7 +97,3 @@ Contributions are welcome, especially new questions, corrections and translation
 This is an independent revision resource. It is **not affiliated with, endorsed by or produced by Cambridge University Press & Assessment**. "Cambridge International" and the syllabus code 9701 are used only to identify the course the notes cover.
 
 The questions are original, written in the style of 9701 examination papers. They are **not** copies of past papers. For official past papers, mark schemes, the Data Booklet and the current syllabus, use the [Cambridge International website](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-chemistry-9701/) or ask your teacher.
-
-## License
-
-No license has been chosen yet. Until one is added, all rights are reserved by the repository owner. To let others reuse and adapt the material, add a `LICENSE` file; for example, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) suits educational content.
